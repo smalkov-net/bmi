@@ -1,2 +1,2 @@
 # bmi
-BMI
+BMI for Mac on Apple silicone
